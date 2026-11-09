@@ -71,6 +71,10 @@ Bonfire also provides a [GraphQL API](`Bonfire.API.GraphQL`) for developers who 
 
 Throughout the documentation, we'll make sure to provide links to relevant resources when introducing new concepts to help you along the way. We have a strong affinity for Elixir and believe it's a powerful language for building scalable and maintainable social networks.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Bonfire/)
+
 ## Join our community
 
 If you have questions about anything related to Bonfire, you're always welcome to ask our community on [Matrix](https://matrix.to/#/#bonfire-networks:matrix.org), [Slack](https://join.slack.com/t/elixir-lang/shared_invite/zt-2ko4792lz-28XosraCTaYZKOyuZ80hrg), [Elixir Forum](https://elixirforum.com) and the [Fediverse](https://indieweb.social/@bonfire) or send us an email at team@bonfire.cafe.
